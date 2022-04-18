@@ -1,0 +1,46 @@
+body {
+        background: #fff;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color: #000;
+        margin: 0;
+        padding: 0;
+      
+      
+        justify-content:50px;
+        padding-bottom:50px;
+      }
+
+      .swiper-container {
+        width: 90%
+  height:100vh;
+        padding-top: 50px;
+        padding-bottom: 50px;
+         margin: 20px auto;
+      }
+
+      .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 100px;
+       
+        background:transparent;
+      }
+ .box{
+   width:3px;
+  }
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+  height:auto;
+      }
+  .area{
+  width:50%;
+  }
+#main-wrapper {
+    float: left;
+    overflow: hidden;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 20px;
+}
